@@ -31,7 +31,7 @@ You might notice a reduced performance of RadGridView control. Below are listed 
 
 * As of __Q1 2012 SP1__ you have the option to disable the Telerik StyleManager and to style the controls using Implicit Styles. There are a number of benefits of using implicit styles over the Telerik StyleManager. For more information, please refer to this [help article]({%slug styling-apperance-implicit-styles-overview%}).
 
-* As of __Q3 2012__ a __new rendering mode - Flat__ is available. When you set Flat mode, the control will render rows one below other. This leads to a very good perfromance when there is grouping on several levels defined and a lot of data is populated. You can also refer to the [Grouping Modes]({%slug gridview-grouping-groupingmodes%}) article.
+* As of __Q3 2012__ a __new rendering mode - Flat__ is available. When you set Flat mode, the control will render rows one below other. This leads to a very good performance when there is grouping on several levels defined and a lot of data is populated. You can also refer to the [Grouping Modes]({%slug gridview-grouping-groupingmodes%}) article.
 
 * __DataLoadMode="Asynchronous"__ - using this mode is not recommended, it leads to potential problems. Please do not use it.
 
